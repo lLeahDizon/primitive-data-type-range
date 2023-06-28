@@ -1,2 +1,4 @@
-# primate-type-range
-Practice for primate type range
+# 挑战：基本类型范围
+请修改代码，获取每种基本类型的最小值和最大值，使得代码能通过测试
+
+在提交Pull Request之前，你应当在本地确保所有代码已经编译通过，并且通过了测试(mvn clean verify)
